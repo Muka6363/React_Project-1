@@ -1,7 +1,7 @@
 # Hello...🙋🏻‍♂️...I'm Here With My Newest Project❤<img align="right" src="https://github.com/Muka6363/PROJELER_MK/blob/main/Images/avatar_2-removebg-preview.png"  width="100px">
 ### Check The Live Website :arrow_right:[React_Project-1](https://muka6363.github.io/React_Project-1/) :arrow_left:
 ### Visualization of the Website
-![image (https://github.com/Muka6363/React_Project-1/blob/main/public/React_Project_1.gif)
+![image] (https://github.com/Muka6363/React_Project-1/blob/main/public/React_Project_1.gif)
 ### Overview
 I mastered HTML-CSS features in this project. You can see the visual representation of the website above.
 ### Used in this project
