@@ -11,7 +11,7 @@ I mastered HTML-CSS features in this project. You can see the visual representat
 + Second open the files : :point_right:[My Docs](https://muka6363.github.io/React_Project-1/)
 + You can use this tutorial :point_right:[VS Code tutorial](https://www.youtube.com/watch?v=fJEbVCrEMSE)
 
-:point_right: ![image](https://user-images.githubusercontent.com/101215803/194779478-3fe86591-09df-42f2-9761-af396e290fa0.png)
+![image](https://user-images.githubusercontent.com/101215803/194779478-3fe86591-09df-42f2-9761-af396e290fa0.png)
 
 
 
