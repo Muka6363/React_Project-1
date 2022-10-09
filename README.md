@@ -40,9 +40,9 @@ SOLUTION
 │    ├── App.js
 │    ├── index.js
 │    ├── index.css
-└── .gitignore
-└── package-lock.json
-└── package.json
+├── .gitignore
+├── package-lock.json
+├── package.json
 └── yarn.lock
 ```
 
