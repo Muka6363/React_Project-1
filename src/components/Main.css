@@ -1,0 +1,33 @@
+body {
+  background-color: rgb(160, 168, 168);
+}
+.card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 3rem auto;
+  overflow: hidden;
+  border-radius: 2rem;
+}
+
+.card-text {
+  color: yellow;
+  text-align: center;
+}
+.card-body :hover {
+  color: green;
+
+  cursor: pointer;
+}
+
+.card-img-top {
+  border-radius: 2rem;
+  -o-object-fit: cover;
+  object-fit: cover;
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.6s ease;
+}
+.card-img-top:hover {
+  -webkit-transform: scale(1.5);
+  transform: scale(1.1);
+}
