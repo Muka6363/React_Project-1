@@ -10,7 +10,7 @@ span {
   color: green;
 }
 
-.header :hover {
+h1 :hover {
   color: green;
 }
 span :hover {
