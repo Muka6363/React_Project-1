@@ -9,3 +9,10 @@
 span {
   color: green;
 }
+
+header :hover {
+  color: green;
+}
+span :hover {
+  color: yellow;
+}
